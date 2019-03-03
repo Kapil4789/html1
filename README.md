@@ -6,8 +6,11 @@ Hello My name is Kapil Prajapati
 This sample code helps get you started with a simple static HTML website
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 instance.
 
+<<<<<<< HEAD
 hello Kapil Prajapati
 -----------------------
+=======
+>>>>>>> 21d25b2a90756a7cfd66328a93c6c3f32fa64536
 
 
 What's Here
