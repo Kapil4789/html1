@@ -7,6 +7,8 @@ This sample code helps get you started with a simple static HTML website
 deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 instance.
 
 hello Kapil Prajapati
+---------------------
+
 
 What's Here
 -----------
